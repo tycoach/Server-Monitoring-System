@@ -1,0 +1,7 @@
+{
+    "central_server": "http://172.23.188.162:5000",
+    "server_name": "AgentOne",
+    "collect_interval": 60,
+    "retry_attempts": 3,
+    "retry_delay": 10
+}
